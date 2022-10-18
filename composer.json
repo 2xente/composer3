@@ -1,0 +1,17 @@
+{
+    "name": "root/compsoer_quete3",
+    "autoload": {
+        "psr-4": {
+            "Root\\CompsoerQuete3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CodingBDX",
+            "email": "antonycharier@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
